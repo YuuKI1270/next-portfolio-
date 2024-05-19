@@ -7,7 +7,7 @@ const projects = [
     title: "Ticket Survey with Nuxt 3",
     description:
       "It's an application for update ticket. You can update department and add more comments",
-    imageUrl: "/images/project1.jpg",
+    imageUrl: "/images/loginTask.png",
   },
   {
     title: "Task managment with next js",
@@ -19,7 +19,7 @@ const projects = [
     title: "Document Tracking with Next.js",
     description:
       "A robust document tracking system built with Next.js, designed to streamline the process of managing and tracking documents. This application allows users to upload, categorize, and monitor document status in real-time. It features a secure authentication system, ensuring that only authorized users can access and modify the documents. With a responsive design and intuitive user interface, users can efficiently manage their documents from any device.",
-    imageUrl: "/images/project1.jpg",
+    imageUrl: "/img/Screenshot 2024-05-19 191910.png",
   },
   // Add more projects as needed
 ];
