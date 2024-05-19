@@ -12,7 +12,7 @@ export default function Home() {
       <div className="container mx-auto h-[calc(100vh-72px)]">
         <div className="grid grid-cols-2 gap-0 h-full">
           <div className="relative">
-            <div className="w-[700px] absolute left-0 bottom-0">
+            <div className="w-[600px] absolute left-0 bottom-5">
               {" "}
               <Image
                 src="/img/photo_2024-05-19_18-49-21.jpg" // Make sure to replace this with your actual image path
