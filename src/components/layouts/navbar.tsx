@@ -43,7 +43,7 @@ const Navbar = () => {
               path === "/about" ? "text-blue-500" : "text-gray-900"
             } text-lg font-semibold leading-6 `}
           >
-            About
+            About Me
           </Link>
         </div>
         <div className="hidden lg:flex lg:flex-1 lg:justify-end">

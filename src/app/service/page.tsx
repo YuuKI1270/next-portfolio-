@@ -1,13 +1,12 @@
 import React from "react";
 import Image from "next/image";
-import Link from "next/link";
 
 const projects = [
   {
     title: "Ticket Survey with Nuxt 3",
     description:
       "It's an application for update ticket. You can update department and add more comments",
-    imageUrl: "/images/loginTask.png",
+    imageUrl: "/img/survey.png",
   },
   {
     title: "Task managment with next js",
