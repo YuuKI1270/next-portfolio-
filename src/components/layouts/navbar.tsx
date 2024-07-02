@@ -38,6 +38,14 @@ const Navbar = () => {
             Projects
           </Link>
           <Link
+            href={"/gitlab"}
+            className={`${
+              path === "/gitlab" ? "text-blue-500" : "text-gray-900"
+            } text-lg font-semibold leading-6 `}
+          >
+            GitLab Activity
+          </Link>
+          <Link
             href={"/about"}
             className={`${
               path === "/about" ? "text-blue-500" : "text-gray-900"
